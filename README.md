@@ -1,4 +1,4 @@
-# 🚀 SNAKE GAME
+# 🐍 SNAKE GAME
 
  Este proyecto consiste en un juego clásico denominado "La culebra" donde el jugador personifica a la serpiente y su objetivo es consumir la gran mayoria de puntos.✨
 
